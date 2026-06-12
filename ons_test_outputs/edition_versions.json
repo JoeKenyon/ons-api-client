@@ -1,0 +1,337 @@
+[
+  {
+    "version_number": 67,
+    "release_date": "2026-02-18T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/67"
+  },
+  {
+    "version_number": 66,
+    "release_date": "2026-01-21T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/66"
+  },
+  {
+    "version_number": 65,
+    "release_date": "2025-12-17T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/65"
+  },
+  {
+    "version_number": 64,
+    "release_date": "2025-11-19T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/64"
+  },
+  {
+    "version_number": 63,
+    "release_date": "2025-10-22T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/63"
+  },
+  {
+    "version_number": 62,
+    "release_date": "2025-09-17T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/62"
+  },
+  {
+    "version_number": 61,
+    "release_date": "2025-08-20T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/61"
+  },
+  {
+    "version_number": 60,
+    "release_date": "2025-07-16T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/60"
+  },
+  {
+    "version_number": 59,
+    "release_date": "2025-06-18T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/59"
+  },
+  {
+    "version_number": 58,
+    "release_date": "2025-05-22T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/58"
+  },
+  {
+    "version_number": 57,
+    "release_date": "2025-04-16T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/57"
+  },
+  {
+    "version_number": 56,
+    "release_date": "2025-03-26T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/56"
+  },
+  {
+    "version_number": 55,
+    "release_date": "2025-02-19T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/55"
+  },
+  {
+    "version_number": 54,
+    "release_date": "2025-01-15T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/54"
+  },
+  {
+    "version_number": 53,
+    "release_date": "2024-12-18T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/53"
+  },
+  {
+    "version_number": 52,
+    "release_date": "2024-11-21T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/52"
+  },
+  {
+    "version_number": 51,
+    "release_date": "2024-10-16T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/51"
+  },
+  {
+    "version_number": 50,
+    "release_date": "2024-09-18T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/50"
+  },
+  {
+    "version_number": 49,
+    "release_date": "2024-08-14T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/49"
+  },
+  {
+    "version_number": 48,
+    "release_date": "2024-07-17T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/48"
+  },
+  {
+    "version_number": 47,
+    "release_date": "2024-06-19T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/47"
+  },
+  {
+    "version_number": 46,
+    "release_date": "2024-05-22T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/46"
+  },
+  {
+    "version_number": 45,
+    "release_date": "2024-04-17T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/45"
+  },
+  {
+    "version_number": 44,
+    "release_date": "2024-03-20T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/44"
+  },
+  {
+    "version_number": 43,
+    "release_date": "2024-02-14T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/43"
+  },
+  {
+    "version_number": 42,
+    "release_date": "2024-01-17T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/42"
+  },
+  {
+    "version_number": 41,
+    "release_date": "2023-12-20T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/41"
+  },
+  {
+    "version_number": 40,
+    "release_date": "2023-11-15T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/40"
+  },
+  {
+    "version_number": 39,
+    "release_date": "2023-10-18T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/39"
+  },
+  {
+    "version_number": 38,
+    "release_date": "2023-09-20T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/38"
+  },
+  {
+    "version_number": 37,
+    "release_date": "2023-08-16T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/37"
+  },
+  {
+    "version_number": 36,
+    "release_date": "2023-07-19T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/36"
+  },
+  {
+    "version_number": 35,
+    "release_date": "2023-06-21T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/35"
+  },
+  {
+    "version_number": 34,
+    "release_date": "2023-05-24T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/34"
+  },
+  {
+    "version_number": 33,
+    "release_date": "2023-04-19T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/33"
+  },
+  {
+    "version_number": 32,
+    "release_date": "2023-03-22T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/32"
+  },
+  {
+    "version_number": 31,
+    "release_date": "2023-02-15T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/31"
+  },
+  {
+    "version_number": 30,
+    "release_date": "2023-01-18T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/30"
+  },
+  {
+    "version_number": 29,
+    "release_date": "2022-12-14T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/29"
+  },
+  {
+    "version_number": 28,
+    "release_date": "2022-11-16T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/28"
+  },
+  {
+    "version_number": 27,
+    "release_date": "2022-10-19T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/27"
+  },
+  {
+    "version_number": 26,
+    "release_date": "2022-09-14T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/26"
+  },
+  {
+    "version_number": 25,
+    "release_date": "2022-08-17T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/25"
+  },
+  {
+    "version_number": 24,
+    "release_date": "2022-07-20T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/24"
+  },
+  {
+    "version_number": 23,
+    "release_date": "2022-06-22T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/23"
+  },
+  {
+    "version_number": 22,
+    "release_date": "2022-05-18T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/22"
+  },
+  {
+    "version_number": 21,
+    "release_date": "2022-04-13T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/21"
+  },
+  {
+    "version_number": 20,
+    "release_date": "2022-03-23T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/20"
+  },
+  {
+    "version_number": 19,
+    "release_date": "2022-02-16T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/19"
+  },
+  {
+    "version_number": 18,
+    "release_date": "2022-01-19T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/18"
+  },
+  {
+    "version_number": 17,
+    "release_date": "2021-12-15T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/17"
+  },
+  {
+    "version_number": 16,
+    "release_date": "2021-11-17T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/16"
+  },
+  {
+    "version_number": 15,
+    "release_date": "2021-10-20T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/15"
+  },
+  {
+    "version_number": 14,
+    "release_date": "2021-09-15T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/14"
+  },
+  {
+    "version_number": 13,
+    "release_date": "2021-08-19T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/13"
+  },
+  {
+    "version_number": 12,
+    "release_date": "2021-07-14T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/12"
+  },
+  {
+    "version_number": 11,
+    "release_date": "2021-07-14T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/11"
+  },
+  {
+    "version_number": 10,
+    "release_date": "2021-06-16T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/10"
+  },
+  {
+    "version_number": 9,
+    "release_date": "2021-05-19T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/9"
+  },
+  {
+    "version_number": 8,
+    "release_date": "2021-04-21T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/8"
+  },
+  {
+    "version_number": 7,
+    "release_date": "2021-04-14T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/7"
+  },
+  {
+    "version_number": 6,
+    "release_date": "2021-03-24T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/6"
+  },
+  {
+    "version_number": 5,
+    "release_date": "2021-02-17T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/5"
+  },
+  {
+    "version_number": 4,
+    "release_date": "2021-01-20T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/4"
+  },
+  {
+    "version_number": 3,
+    "release_date": "2020-12-16T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/3"
+  },
+  {
+    "version_number": 2,
+    "release_date": "2020-11-18T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/2"
+  },
+  {
+    "version_number": 1,
+    "release_date": "2020-10-21T00:00:00.000Z",
+    "version_url": "https://api.beta.ons.gov.uk/v1/datasets/cpih01/editions/time-series/versions/1"
+  }
+]

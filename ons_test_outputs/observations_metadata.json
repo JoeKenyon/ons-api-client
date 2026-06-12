@@ -1,0 +1,9 @@
+{
+  "dataset_id": "cpih01",
+  "version_used": 67,
+  "filters_applied": {
+    "aggregate": "CP00",
+    "geography": "K02000001",
+    "time": "Jan-26"
+  }
+}
